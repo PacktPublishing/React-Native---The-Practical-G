@@ -1,0 +1,5 @@
+https://jwt.io/
+
+https://firebase.google.com/docs/reference/rest/auth/
+
+https://facebook.github.io/react-native/docs/asyncstorage.html

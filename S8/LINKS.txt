@@ -1,0 +1,4 @@
+Useful Resources & Links
+Section 8, Lecture 128
+Handling Text Input (official docs): https://facebook.github.io/react-native/docs/handling-text-input.html
+TextInput Component docs: https://facebook.github.io/react-native/docs/textinput.html
