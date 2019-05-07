@@ -1,0 +1,5 @@
+Useful Resources & Links
+Section 1, Lecture 11
+Quickly get started (with create-react-native-app): https://facebook.github.io/react-native/docs/getting-started.html
+Keep the official docs in mind for the rest of the course: https://facebook.github.io/react-native/docs/tutorial.html
+The create-react-native-app Github repo: https://github.com/react-community/create-react-native-app
